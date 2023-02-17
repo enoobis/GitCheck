@@ -1,5 +1,5 @@
 
-# GitCheck
+# GitCheck (git-check)
 
 ![GitCheck Screenshot](https://user-images.githubusercontent.com/62465404/219690429-33623889-bed1-4b11-b212-6bed48df075d.png)
 
